@@ -1,0 +1,9 @@
+*.pt
+runs/
+annotations/
+images/
+labels/
+labels.cache
+test.txt
+train.txt
+validate.txt

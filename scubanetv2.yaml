@@ -1,0 +1,13 @@
+train: train.txt
+val: validate.txt
+test: test.txt
+
+# number of classes
+nc: 33
+
+# class names
+names: ["Zero", "One", "Two", "Three", "Four", "Five",
+"Six", "Seven", "Eight", "Nine", "Ten", "You", "Me", "Ok",
+"Swim", "Stop", "Up", "Down", "Level Off", "Left", "Right",
+"Line", "Come Here", "Follow", "Look", "Take Picture", 
+"Take Movie", "Trouble", "All Done", "Together", "Off Hand", "Idle", "Head"]
